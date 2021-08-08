@@ -23,13 +23,13 @@ namespace UnitTestProjectSpecflow.StepDefinations
         [Given(@"the second number is (.*)")]
         public void GivenTheSecondNumberIs(int p0)
         {
-            ScenarioContext.Current.Pending();
+            
         }
 
         [When(@"the two numbers are added")]
         public void WhenTheTwoNumbersAreAdded()
         {
-            ScenarioContext.Current.Pending();
+            
         }
 
 
